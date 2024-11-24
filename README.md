@@ -1,0 +1,1 @@
+This is a project written in JavaScript, using the p5js library, that simulates the behavior of a volume of ideal gas particles enclosed in a box, subject to cyclic compressions by a piston. The kinetic energy total value and spread is tracked.
